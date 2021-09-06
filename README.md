@@ -2,10 +2,11 @@
 Generates random Mazes for custom sizes up to 31x31. Generation and solving both work with recursive algoryhtms.
 
 # About
-A maze generation/solving programm, written in 3 days in WPF. Learned much espically about recursion and I am pretty happy with the result. Source code is public for everyone who wants to see the code or modify it. 
+A maze generation/solving programm, written in 3 days in WPF. Learned much espically about recursion and I am pretty happy with the result. Source code is public for everyone who wants to see the code or modify it. The programm is downloadable as .exe for windows.
 
 [Download](https://github.com/SagMeinenNamen/Maze/raw/main/Maze.exe)
 
+<hr>
 
 ![image](https://user-images.githubusercontent.com/62218506/132137571-77e168eb-47db-4c51-88a1-fa136965c446.png)
 
