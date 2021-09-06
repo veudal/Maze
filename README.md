@@ -1,8 +1,8 @@
 # Maze
-Generates random mazes to custom dimension up to 31 * 31. Generation and solving both work with a recursive algoryhtm.
+Generates random Mazes for custom sizes up to 31x31. Generation and solving both work with recursive algoryhtms.
 
 # About
-A maze generation/solving programm, written in 3 days. Learned much and I am pretty happy about the result. Source code is public for everyone who wants to see the code or modify it. 
+A maze generation/solving programm, written in 3 days in WPF. Learned much espically about recursion and I am pretty happy with the result. Source code is public for everyone who wants to see the code or modify it. 
 
 [Download](https://github.com/SagMeinenNamen/Maze/raw/main/Maze.exe)
 
